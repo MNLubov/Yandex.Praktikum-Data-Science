@@ -1,4 +1,4 @@
-#Yandex.Praktikum-projects
+# Yandex.Praktikum-projects
 
 Репозиторий проектов, выполненных в ходе прохождения обучения курса по Data Sciecne от Яндекс.Практикум
 
